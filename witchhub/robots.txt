@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/w3bwerk/
+Sitemap: https://cappybara.netlify.app/sitemap.xml

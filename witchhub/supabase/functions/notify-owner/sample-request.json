@@ -1,0 +1,17 @@
+{
+  "type": "INSERT",
+  "schema": "public",
+  "table": "requests",
+  "record": {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "data": {
+      "name": "Test Client",
+      "email": "test.client@example.com",
+      "svc": "canopy",
+      "tier": 1,
+      "brief": "This is a test of the email notification. You can ignore it.",
+      "budget": "",
+      "deadline": ""
+    }
+  }
+}
